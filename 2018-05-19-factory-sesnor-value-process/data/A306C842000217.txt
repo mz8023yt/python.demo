@@ -1,0 +1,7 @@
+LsensorValue:2453
+PsensorValue:256
+Psensor3cmValue:303
+Psensor5cmValue:264
+GsensorXValue:26786
+GsensorYValue:-16370
+GsensorZValue:9501
